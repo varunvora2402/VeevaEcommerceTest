@@ -36,7 +36,7 @@ This project involves creating an automation framework in Java using Cucumber an
 
 The framework generates detailed HTML reports after test execution, which can be found in the `target` directory.
 
-[View Test Reports](https://reports.cucumber.io/reports/04bc9395-7ee6-4e98-939c-377bb968d8d4)
+[View Test Reports](https://reports.cucumber.io/reports/c6f15b76-08f0-4620-8938-62c7870e2dd1)
 
 ### Conclusion
 
